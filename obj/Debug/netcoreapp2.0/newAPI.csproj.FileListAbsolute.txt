@@ -1,0 +1,10 @@
+C:\E Drive\Learn\K8s\newAPI\bin\Debug\netcoreapp2.0\newAPI.deps.json
+C:\E Drive\Learn\K8s\newAPI\bin\Debug\netcoreapp2.0\newAPI.runtimeconfig.json
+C:\E Drive\Learn\K8s\newAPI\bin\Debug\netcoreapp2.0\newAPI.runtimeconfig.dev.json
+C:\E Drive\Learn\K8s\newAPI\bin\Debug\netcoreapp2.0\newAPI.dll
+C:\E Drive\Learn\K8s\newAPI\bin\Debug\netcoreapp2.0\newAPI.pdb
+C:\E Drive\Learn\K8s\newAPI\obj\Debug\netcoreapp2.0\newAPI.csproj.CoreCompileInputs.cache
+C:\E Drive\Learn\K8s\newAPI\obj\Debug\netcoreapp2.0\newAPI.AssemblyInfoInputs.cache
+C:\E Drive\Learn\K8s\newAPI\obj\Debug\netcoreapp2.0\newAPI.AssemblyInfo.cs
+C:\E Drive\Learn\K8s\newAPI\obj\Debug\netcoreapp2.0\newAPI.dll
+C:\E Drive\Learn\K8s\newAPI\obj\Debug\netcoreapp2.0\newAPI.pdb
